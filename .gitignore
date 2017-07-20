@@ -1,10 +1,17 @@
+<<<<<<< 67d7719016c0045fb440a0feff68360fc1e34308
 # Logs
 logs
 *.log
+=======
+.DS_Store
+node_modules/
+dist/
+>>>>>>> '20177201900'
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+<<<<<<< 67d7719016c0045fb440a0feff68360fc1e34308
 # Runtime data
 pids
 *.pid
@@ -57,3 +64,11 @@ typings/
 # dotenv environment variables file
 .env
 
+=======
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+>>>>>>> '20177201900'
